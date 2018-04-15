@@ -1,0 +1,1 @@
+global.entrada=true
